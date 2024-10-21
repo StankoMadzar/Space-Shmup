@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\GameDev\\SFML_Game_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63024BF1-6DBE-4A32-8DC5-DEEBE1D21953}|SFML_Game_3\\SFML_Game_3.vcxproj|G:\\GameDev\\SFML_Game_3\\SFML_Game_3\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63024BF1-6DBE-4A32-8DC5-DEEBE1D21953}|SFML_Game_3\\SFML_Game_3.vcxproj|solutionrelative:SFML_Game_3\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63024BF1-6DBE-4A32-8DC5-DEEBE1D21953}|SFML_Game_3\\SFML_Game_3.vcxproj|G:\\GameDev\\SFML_Game_3\\SFML_Game_3\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63024BF1-6DBE-4A32-8DC5-DEEBE1D21953}|SFML_Game_3\\SFML_Game_3.vcxproj|solutionrelative:SFML_Game_3\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63024BF1-6DBE-4A32-8DC5-DEEBE1D21953}|SFML_Game_3\\SFML_Game_3.vcxproj|G:\\GameDev\\SFML_Game_3\\SFML_Game_3\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63024BF1-6DBE-4A32-8DC5-DEEBE1D21953}|SFML_Game_3\\SFML_Game_3.vcxproj|solutionrelative:SFML_Game_3\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "G:\\GameDev\\SFML_Game_3\\SFML_Game_3\\Player.cpp",
+              "RelativeDocumentMoniker": "SFML_Game_3\\Player.cpp",
+              "ToolTip": "G:\\GameDev\\SFML_Game_3\\SFML_Game_3\\Player.cpp",
+              "RelativeToolTip": "SFML_Game_3\\Player.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T09:11:12.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "G:\\GameDev\\SFML_Game_3\\SFML_Game_3\\Enemy.cpp",
+              "RelativeDocumentMoniker": "SFML_Game_3\\Enemy.cpp",
+              "ToolTip": "G:\\GameDev\\SFML_Game_3\\SFML_Game_3\\Enemy.cpp",
+              "RelativeToolTip": "SFML_Game_3\\Enemy.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T09:11:05.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "G:\\GameDev\\SFML_Game_3\\SFML_Game_3\\Game.cpp",
+              "RelativeDocumentMoniker": "SFML_Game_3\\Game.cpp",
+              "ToolTip": "G:\\GameDev\\SFML_Game_3\\SFML_Game_3\\Game.cpp",
+              "RelativeToolTip": "SFML_Game_3\\Game.cpp",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAAN8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T13:42:10.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+G:\GameDev\SFML_Game_3\SFML_Game_3\Enemy.cpp(16,41): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Game.cpp
+G:\GameDev\SFML_Game_3\SFML_Game_3\Game.cpp(242,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Player.cpp
+  Generating Code...
+  SFML_Game_3.vcxproj -> G:\GameDev\SFML_Game_3\Debug\SFML_Game_3.exe
